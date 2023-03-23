@@ -1,0 +1,29 @@
+{
+  "image1": {
+    "en": [
+      {
+        "from": 1679371200000,
+        "to": 1679601600000,
+        "assetName": "bet_match1_gb_en"
+      }
+    ]
+  },
+  "image2": {
+    "en": [
+      {
+        "from": 1679371200000,
+        "to": 1679601600000,
+        "assetName": "bet_match2_gb_en"
+      }
+    ]
+  },
+  "image3": {
+    "en": [
+      {
+        "from": 1679371200000,
+        "to": 1679601600000,
+        "assetName": "bet_match3_gb_en"
+      }
+    ]
+  }
+}

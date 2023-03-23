@@ -1,0 +1,79 @@
+{
+  "image1": {
+    "en": [
+      {
+        "from": 1679371200000,
+        "to": 1679486400000,
+        "assetName": "bet_match1_es_en"
+      },{
+        "from" : 1679486400000,
+        "to" :1679774400000 ,
+        "assetName": "230323_es_en_image1"
+      }
+    ],
+    "es": [
+      {
+        "from": 1679371200000,
+        "to": 1679486400000,
+        "assetName": "bet_match1_es_es"
+      },
+      {
+        "from": 1679486400000,
+        "to": 1679774400000,
+        "assetName": "230323_es_es_image1"
+      }
+    ]
+  },
+  "image2": {
+    "en": [
+      {
+        "from": 1679371200000,
+        "to": 1679486400000,
+        "assetName": "bet_match2_es_en"
+      },
+      {
+        "from": 1679486400000,
+        "to": 1679774400000,
+        "assetName": "230323_es_en_image2"
+      }
+    ],
+    "es": [
+      {
+        "from": 1679371200000,
+        "to": 1679486400000,
+        "assetName": "bet_match2_es_es"
+      },
+      {
+        "from": 1679486400000,
+        "to": 1679774400000,
+        "assetName": "230323_es_es_image2"
+      }
+    ]
+  },
+  "image3": {
+    "en": [
+      {
+        "from": 1679371200000,
+        "to": 1679486400000,
+        "assetName": "bet_match3_es_en"
+      },
+      {
+        "from": 1679486400000,
+        "to": 1679774400000,
+        "assetName": "230323_es_en_image3"
+      }
+    ],
+    "es": [
+      {
+        "from": 1679371200000,
+        "to": 1679486400000,
+        "assetName": "bet_match3_es_es"
+      },
+      {
+        "from": 1679486400000,
+        "to": 1679774400000,
+        "assetName": "230323_es_es_image3"
+      }
+    ]
+  }
+}
