@@ -2,27 +2,27 @@
   "image1": {
     "en": [
       {
-        "from": 1679371200000,
-        "to": 1679601600000,
-        "assetName": "bet_match1_gb_en"
+        "from": 1679842800000,
+        "to": 1680202800000,
+        "assetName": "270323_gb_en_image1"
       }
     ]
   },
   "image2": {
     "en": [
       {
-        "from": 1679371200000,
-        "to": 1679601600000,
-        "assetName": "bet_match2_gb_en"
+        "from": 1679842800000,
+        "to": 1680202800000,
+        "assetName": "270323_gb_en_image2"
       }
     ]
   },
   "image3": {
     "en": [
       {
-        "from": 1679371200000,
-        "to": 1679601600000,
-        "assetName": "bet_match3_gb_en"
+        "from": 1679842800000,
+        "to": 1680202800000,
+        "assetName": "270323_gb_en_image2"
       }
     ]
   }
